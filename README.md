@@ -8,7 +8,7 @@ proyectos y mis intereses.
 ## Información personal
 * Nombre: Alejandro Diez
 * Ocupación: Estudiante
-* Lugar de residencia: Guayacanes M185 V1
+* Lugar de residencia: Ecuador
 * Sitio web: por definir
 ## Proyectos
 * [Lista de tus proyectos]
