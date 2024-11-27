@@ -22,6 +22,7 @@
 >**Tecnologías usadas**
 >>* Java
 >>* Javafx
+       
 >### BSCARS
 >![alt bscarsapp](img/BSCAR.png)
        
