@@ -14,6 +14,7 @@
 >* Ocupación: Estudiante
 >* Lugar de residencia: Ecuador
 >* Sitio web: [Curriculum Vitae](https://alexdiez10.github.io/Curriculum-Vitae/)
+       
 ## Proyectos
       
 >### Domino
@@ -27,6 +28,7 @@
 >>* Javafx
 
 >**Link del repositorio**
+     
 >[Domino](https://github.com/AlexDiez10/Domino.git)
        
 >### BSCARS
@@ -40,6 +42,7 @@
 >>* Javafx
        
 >**Link del repositorio**
+      
 >[BSCARS](https://github.com/AlexDiez10/Domino.git)
         
 >### QuestionGame
@@ -53,6 +56,7 @@
 >>* Javafx
       
 >**Link del repositorio**
+       
 >[QuestionGame](https://github.com/Kenkyo1/ED_P1_Grupo05_P2.git)
 
 >### Curriculum Vitae
@@ -66,6 +70,7 @@
 >>* CSS
      
 >**Link del repositorio**
+        
 >[Curriculum-Vitae](https://github.com/AlexDiez10/Curriculum-Vitae.git)
       
 ## Tecnologías del curso
