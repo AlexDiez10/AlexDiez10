@@ -1,12 +1,15 @@
 # Mi sitio personal
+     
 >Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
      
 ## Contenido
+   
 >* [Información personal](#información-personal)
 >* [Proyectos](#proyectos)
->* [Intereses](#intereses)
+>* [Tecnologías del curso](#tecnologías-del-curso)
    
 ## Información personal
+     
 >* Nombre: Alejandro Diez
 >* Ocupación: Estudiante
 >* Lugar de residencia: Ecuador
@@ -22,6 +25,9 @@
 >**Tecnologías usadas**
 >>* Java
 >>* Javafx
+
+>**Link del repositorio**
+>[Domino](https://github.com/AlexDiez10/Domino.git)
        
 >### BSCARS
 >![alt bscarsapp](img/BSCAR.png)
@@ -33,6 +39,9 @@
 >>* Java
 >>* Javafx
        
+>**Link del repositorio**
+>[BSCARS](https://github.com/AlexDiez10/Domino.git)
+        
 >### QuestionGame
 >![alt questiongameapp](img/QuestionGame.png)
       
@@ -43,6 +52,9 @@
 >>* Java
 >>* Javafx
       
+>**Link del repositorio**
+>[QuestionGame](https://github.com/Kenkyo1/ED_P1_Grupo05_P2.git)
+
 >### Curriculum Vitae
 >![alt curriculumvitaepage](img/CV.png)
      
@@ -53,7 +65,22 @@
 >>* HTML
 >>* CSS
      
-## Intereses
->* Nuevas tecnologías emergentes
->* Proyectos con enfoques únicos
->* Aprender nuevas técnicas o métodos
+>**Link del repositorio**
+>[Curriculum-Vitae](https://github.com/AlexDiez10/Curriculum-Vitae.git)
+      
+## Tecnologías del curso
+> ### Lenguajes de programación
+>>* Javascript: Permite crear páginas web interactivas y dinámicas.
+>>* Typescript: Es un superconjunto de JavaScript que añade tipado estático.
+>>* Python: Ideal para backend y servicios API.
+
+> ### Lenguaje de etiquetas y hojas de estilos
+>>* HTML: Define la estructura y contenido de una página web.
+>>* CSS: Controla el aspecto visual de los elementos HTML.
+
+> ### Frameworks y Librerías
+>>* React: Desarrollo de aplicaciones web de una sola página (SPA).
+
+> ### Herramientas
+>>* Git: Es un sistema de control de versiones distribuido.
+>>* GitHub: Es una plataforma de alojamiento de código basada en Git.
